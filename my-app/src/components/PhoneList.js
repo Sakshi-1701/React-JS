@@ -1,4 +1,4 @@
-//TASK3 = Use map function to display the data and create a button
+//TASK3 = Use map function to display the data.
 
 import React from 'react'
 
